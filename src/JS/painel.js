@@ -54,5 +54,3 @@ function mostrarOuEsconderSetas(){
         setaAvancar.classList.remove("opacidade")
     }
 }
-
-window.alert("quase finalizado rlx ai")
